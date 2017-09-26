@@ -9,7 +9,7 @@
                <div class="col-12 col-border" >
                    <div class="row">
                        <div class="col-4 title dotted">Name</div>
-                       <div class="col-8 dotted">Sirius Omega</div>
+                       <div class="col-8 dotted">Cronir Fleece</div>
                    </div>
                    <div class="row">
                        <div class="col-4 title dotted">Player</div>
